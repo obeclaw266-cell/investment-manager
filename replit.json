@@ -1,0 +1,1 @@
+{ "name": "investment-manager", "description": "投資管理系統 Flask App", "language": "python3", "run": "pip install flask requests && python app.py", "onBoot": "python app.py" }
